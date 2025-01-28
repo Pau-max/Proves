@@ -1,6 +1,13 @@
 <<<<<<< HEAD
 Que tal?hyrythtdhtd
+<<<<<<< HEAD
 =======
 Que tal?hyrythtdhtd
 pau
 >>>>>>> c9cc90e8303cc84cc90d073c2cbc40074acbe7bb
+=======
+pau
+=======
+Que tal?hyrythtdhtd
+>>>>>>> main
+>>>>>>> BranchDessarolloDePersonaje
