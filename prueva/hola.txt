@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Que tal?hyrythtdhtd
 pau
+=======
+Que tal?hyrythtdhtd
+>>>>>>> main
